@@ -5,7 +5,7 @@ def values():
     for value in range(5):
         print(value)
         if value%2 == 0:
-            print('Четное')
+            print('Четное число')
         else:
             print('Нечетное')
         print('Конец итерации') 
